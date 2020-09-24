@@ -21,4 +21,4 @@ def cipher(str, shift)
   result
 end
 
-p cipher("Easy", 25)
+p cipher("Oh my gosh, Bryan! We're being chased.", 13)
